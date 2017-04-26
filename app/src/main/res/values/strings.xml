@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InternetGuide</string>
+
+    <string name="creator">August-Tancheng</string>
+
+    <string name="email">august_tancheng@mail.nwpu.edu.cn</string>
+
+    <string name="contact">18829589229</string>
+
+    <string name="copyright">Copyright 2017-2022</string>
+</resources>
